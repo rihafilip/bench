@@ -1,6 +1,6 @@
 [project]
 name = "bench-framework-test"
-version = "0.1.1"
+version = "0.1.2"
 description = "A Python benchmarking framework and command-line tool"
 maintainers = [
   { name = "Filip Říha", email = "riha.fina@gmail.com" },
