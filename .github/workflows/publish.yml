@@ -84,7 +84,7 @@ jobs:
 
       - uses: astral-sh/setup-uv@v6
 
-      - run: uv publish
+      - run: uv publish --publish-url https://test.pypi.org/legacy/
 
   github-release:
     name: GitHub release
